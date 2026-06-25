@@ -1,0 +1,43 @@
+.banner {
+    width: 100%;
+  min-height: 80vh;
+
+  background-image:
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url('https://upload.wikimedia.org/wikipedia/commons/b/b8/Photovoltaik_Dachanlage_Hannover_-_Schwarze_Heide_-_1_MW.jpg');
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-container {
+  width: 90%;
+  max-width: 1200px;
+  text-align: center;
+    
+}
+
+.banner h1 {
+    
+  color: rgb(28, 120, 5);
+font-size: clamp(2rem, 6vw, 4rem);
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.banner p {
+ 
+  font-size: clamp(1rem, 3vw, 1.8rem);
+  line-height: 3;
+  color: rgb(18, 173, 119);
+
+
+}
