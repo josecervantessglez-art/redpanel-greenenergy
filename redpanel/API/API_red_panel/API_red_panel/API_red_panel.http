@@ -1,0 +1,6 @@
+@API_red_panel_HostAddress = http://localhost:7169
+
+GET {{API_red_panel_HostAddress}}/Program/
+Accept: application/json
+
+###

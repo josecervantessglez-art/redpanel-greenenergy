@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\models\\cotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\models\\cotizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\controllers\\cotizacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\controllers\\cotizacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\models\\empresas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\models\\empresas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\api_red_panel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\api_red_panel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\api_red_panel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\api_red_panel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|c:\\users\\end user\\documentos.1\\semestre 8\\api\\api_red_panel\\api_red_panel\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5490DCE-D3E0-4D44-84B7-E6CCD65551E7}|API_red_panel\\API_red_panel.csproj|solutionrelative:api_red_panel\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empresas.cs",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Models\\Empresas.cs",
+              "RelativeDocumentMoniker": "API_red_panel\\Models\\Empresas.cs",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Models\\Empresas.cs",
+              "RelativeToolTip": "API_red_panel\\Models\\Empresas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T19:36:55.56Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CotizacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Controllers\\CotizacionesController.cs",
+              "RelativeDocumentMoniker": "API_red_panel\\Controllers\\CotizacionesController.cs",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Controllers\\CotizacionesController.cs",
+              "RelativeToolTip": "API_red_panel\\Controllers\\CotizacionesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T17:27:45.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cotizacion.cs",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Models\\Cotizacion.cs",
+              "RelativeDocumentMoniker": "API_red_panel\\Models\\Cotizacion.cs",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Models\\Cotizacion.cs",
+              "RelativeToolTip": "API_red_panel\\Models\\Cotizacion.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAMwC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T17:17:43.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "API_red_panel\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Models\\Cliente.cs",
+              "RelativeToolTip": "API_red_panel\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T17:17:29.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_red_panel\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_red_panel\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-23T15:41:18.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API_red_panel\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\WeatherForecast.cs",
+              "RelativeToolTip": "API_red_panel\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T15:32:58.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "API_red_panel.http",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\API_red_panel.http",
+              "RelativeDocumentMoniker": "API_red_panel\\API_red_panel.http",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\API_red_panel.http",
+              "RelativeToolTip": "API_red_panel\\API_red_panel.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-22T16:47:19.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "API_red_panel\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "API_red_panel\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T20:32:41.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Program.cs",
+              "RelativeDocumentMoniker": "API_red_panel\\Program.cs",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Program.cs",
+              "RelativeToolTip": "API_red_panel\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T20:25:49.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API_red_panel\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\appsettings.Development.json",
+              "RelativeToolTip": "API_red_panel\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-15T20:16:36.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\appsettings.json",
+              "RelativeDocumentMoniker": "API_red_panel\\appsettings.json",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\appsettings.json",
+              "RelativeToolTip": "API_red_panel\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-15T20:16:33.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "API_red_panel\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "API_red_panel\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T20:11:11.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "API_red_panel\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "API_red_panel\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T20:06:30.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpresasController.cs",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Controllers\\EmpresasController.cs",
+              "RelativeDocumentMoniker": "API_red_panel\\Controllers\\EmpresasController.cs",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Controllers\\EmpresasController.cs",
+              "RelativeToolTip": "API_red_panel\\Controllers\\EmpresasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T19:38:26.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API_red_panel\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API_red_panel\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T19:37:41.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "API_red_panel\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\Models\\Usuario.cs",
+              "RelativeToolTip": "API_red_panel\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T19:35:29.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "API_red_panel.csproj",
+              "DocumentMoniker": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\API_red_panel.csproj",
+              "RelativeDocumentMoniker": "API_red_panel\\API_red_panel.csproj",
+              "ToolTip": "C:\\Users\\End User\\Documentos.1\\semestre 8\\API\\API_red_panel\\API_red_panel\\API_red_panel.csproj",
+              "RelativeToolTip": "API_red_panel\\API_red_panel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-15T19:28:43.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
